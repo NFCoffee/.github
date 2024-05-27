@@ -39,7 +39,9 @@
 ## 2. 채택한 개발 기술과 브랜치 전략
 
 ### Geth
-//todo
+- Go-ethereum
+    - Ethereum의 smart contract를 구동할 수 있는 Go language로 개발된 클라이언트
+    - Geth를 통한 블록의 트랜잭션을 검증하고 실행 가능
 
 ### Node.js
 - web3.js
@@ -86,14 +88,10 @@
 
 <br>
     
-### 😎박정진
+### 💕박정진
 
-- **Web3**
-    - 사설 Geth 네트워크 구성
-    - 스마트-컨트랙트 정의 및 배포
-- **기능**
-    - //todo
-    - ex) 유저 검색, 게시글 등록 및 수정, 게시글 상세 확인, 댓글 등록, 팔로워 게시글 불러오기, 좋아요 기능
+- **논문**
+    - 논문 작성 및 수정    
 
 <br>
 
@@ -155,7 +153,13 @@
 
 <br>
 
-## 7. 페이지별 기능
+## 7. NFCoffee 논문
+![Journal](https://github.com/NFCoffee/.github/blob/main/profile/Images/Journal.png?raw=true)
+
+<br>
+
+
+## 8. 페이지별 기능
 
 ### [초기화면]
 - 서비스 접속 초기화면으로 splash 화면이 잠시 나온 뒤 다음 페이지가 나타납니다.
