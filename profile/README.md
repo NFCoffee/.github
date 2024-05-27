@@ -154,7 +154,7 @@
 <br>
 
 ## 7. NFCoffee 논문
-![Journal]([https://github.com/NFCoffee/.github/blob/main/profile/Images/Journal.png?raw=true](https://github.com/NFCoffee/.github/blob/main/profile/Images/Article.png?raw=true))
+![Journal](https://github.com/NFCoffee/.github/blob/main/profile/Images/Article.png?raw=true)
 
 <br>
 
