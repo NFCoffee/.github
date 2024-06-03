@@ -80,11 +80,12 @@
 ### 🍊이민규
 
 - **Web3**
-    - 사설 Geth 네트워크 구성
-    - 스마트-컨트랙트 정의 및 배포
+    - Geth 이용 Clique(PoA) 기반 Private Network 구성
+    - Solidity 언어로 smart contracts 코드 작성 및 배포
 - **기능**
-    - //todo
-    - ex) 유저 검색, 게시글 등록 및 수정, 게시글 상세 확인, 댓글 등록, 팔로워 게시글 불러오기, 좋아요 기능
+    - nft 민팅 및 소유 확인
+    - token 요청
+    - token을 소모하여 음료 주문
 
 <br>
     
