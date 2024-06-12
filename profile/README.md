@@ -26,11 +26,12 @@
 
 ## 1. 개발 환경
 
-- Front : React-Native
+- Front : React-Native(App), React(Block-explorer)
 - Backend : springboot, node.js(web3)
-- 버전 및 이슈관리 : Github, Github Issues
-- 협업 툴 : [Notion](https://nervous-clipper-604.notion.site/NFCoffee-c3d59d759eaf47a196f627cd1474d455?pvs=74), Figma
-- 디자인 : [Figma](https://www.figma.com/design/nJT0LMpzMuKb8IaddH8oBO/NFCoffee?node-id=1-2&t=iTsS8T9Mmj7s8cAU-0)
+- Blockchain: Solidity, go-ethereum
+- 버전 및 이슈관리 : [Github](https://github.com/NFCoffee), Github Issues
+- 협업 툴 : [Notion](https://nervous-clipper-604.notion.site/NFCoffee-c3d59d759eaf47a196f627cd1474d455?pvs=74)
+- 디자인 : [Figma](https://www.figma.com/design/nJT0LMpzMuKb8IaddH8oBO/NFCoffee?node-id=1-2&t=MfJqnMSNEcUngKh4-1)
 - 프로젝트 구조 : // todo
 
 <br>
@@ -144,11 +145,15 @@
 
 <br>
 
-## 6. 신경 쓴 부분
+## 6. 개발 진행
 
-- [Geth 네트워크 구성](https://github.com/NFCoffee/.github/blob/main/profile/docs/Geth%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%20Clique(PoA)%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20private%20network%20%E1%84%80%E1%85%AE%E1%84%8E%E1%85%AE%E1%86%A8.pptx)
+- [Geth 이용 Clique(PoA) 기반 private network 구축](https://github.com/NFCoffee/.github/blob/main/profile/docs/Geth%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%20Clique(PoA)%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20private%20network%20%E1%84%80%E1%85%AE%E1%84%8E%E1%85%AE%E1%86%A8.pptx)
 
-- [스마트-컨트랙트 배포](https://github.com/NFCoffee/.github/blob/main/profile/docs/NFT%2C%20Token%2C%20Order%20%E1%84%89%E1%85%B3%E1%84%86%E1%85%A1%E1%84%90%E1%85%B3%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3%E1%84%85%E1%85%A2%E1%86%A8%E1%84%90%E1%85%B3.pptx)
+- [NFT, Token, Order 스마트 컨트랙트](https://github.com/NFCoffee/.github/blob/main/profile/docs/NFT%2C%20Token%2C%20Order%20%E1%84%89%E1%85%B3%E1%84%86%E1%85%A1%E1%84%90%E1%85%B3%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3%E1%84%85%E1%85%A2%E1%86%A8%E1%84%90%E1%85%B3.pptx)
+
+| [Figma](https://www.figma.com/design/nJT0LMpzMuKb8IaddH8oBO/NFCoffee?node-id=1-2&t=MfJqnMSNEcUngKh4-1) | Swagger |
+|----------|----------|
+|![Figma](https://github.com/NFCoffee/.github/blob/main/profile/Images/figma.png)|![swagger](https://github.com/NFCoffee/.github/blob/main/profile/Images/swagger.png)|
 
 - 프론트 이슈  
 todo ..
@@ -223,3 +228,10 @@ todo ..
 | History |
 |----------|
 |![History](https://github.com/NFCoffee/.github/blob/main/profile/Images/%EC%8B%A4%ED%96%89%EC%98%81%EC%83%81_history.jpg)|
+
+### [[Block Explorer](https://github.com/NFCoffee/block-explorer)]
+- 자체 블록 탐색기를 개발하여 모든 트랜잭션 기록을 확인할 수 있게 했습니다.
+
+| Block Explorer |
+|-----------|
+|![blockexplorer](https://github.com/NFCoffee/.github/blob/main/profile/Images/block%20explorer.png)|
