@@ -153,7 +153,7 @@
 
 | [Figma](https://www.figma.com/design/nJT0LMpzMuKb8IaddH8oBO/NFCoffee?node-id=1-2&t=MfJqnMSNEcUngKh4-1) | Swagger |
 |----------|----------|
-|![Figma](https://github.com/NFCoffee/.github/blob/main/profile/Images/figma.png)|![swagger](https://github.com/NFCoffee/.github/blob/main/profile/Images/swagger.png)|
+|![Figma](https://github.com/NFCoffee/.github/blob/main/profile/Images/Figma.png)|![swagger](https://github.com/NFCoffee/.github/blob/main/profile/Images/swagger.png)|
 
 - 프론트 이슈  
 todo ..
